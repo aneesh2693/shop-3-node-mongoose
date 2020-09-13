@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-complete-guide",
+  "name": "shop",
   "version": "1.0.0",
-  "description": "Complete Node.js Guide",
+  "description": "NodeJS app built with mongoose",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "start-server": "nodemon app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Aneesh",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
